@@ -9,4 +9,3 @@ def getMissingNo(a, n):
 
 arr = [1,2,4,5]
 print(getMissingNo(arr, len(arr)))
-

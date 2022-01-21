@@ -16,4 +16,3 @@ def getSum(n):
 if __name__ == "__main__":
 	n = 54321
 	getSum(n)
-
